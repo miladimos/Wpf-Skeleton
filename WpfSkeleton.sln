@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfSkeleton", "WpfSkeleton\WpfSkeleton.csproj", "{84FC58FB-5317-4288-BA5E-B1FC7C85A5DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfSkeleton", "src\WpfSkeleton\WpfSkeleton.csproj", "{84FC58FB-5317-4288-BA5E-B1FC7C85A5DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfSkeleton.Test", "test\WpfSkeleton.Test\WpfSkeleton.Test.csproj", "{ED34289D-F1E8-4F38-A364-9BCDAA97AAE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{84FC58FB-5317-4288-BA5E-B1FC7C85A5DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84FC58FB-5317-4288-BA5E-B1FC7C85A5DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84FC58FB-5317-4288-BA5E-B1FC7C85A5DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED34289D-F1E8-4F38-A364-9BCDAA97AAE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED34289D-F1E8-4F38-A364-9BCDAA97AAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED34289D-F1E8-4F38-A364-9BCDAA97AAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED34289D-F1E8-4F38-A364-9BCDAA97AAE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
