@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Collections.ObjectModel;
+﻿using System.Collections.ObjectModel;
 using System.ComponentModel;
 using WpfSkeleton.Model.User;
 
@@ -19,6 +17,7 @@ namespace WpfSkeleton.ViewModel
 
         public string Username
         {
+
             get { return _userModel.Username; }
             set
             {
