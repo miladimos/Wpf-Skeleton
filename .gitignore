@@ -1,2 +1,8 @@
 /src/.vs/
+/src/WpfSkeleton/bin/
 /src/WpfSkeleton/obj/
+
+
+/test/.vs/
+/src/WpfSkeleton/bin/
+/src/WpfSkeleton.Test/obj/
