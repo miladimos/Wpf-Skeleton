@@ -6,22 +6,22 @@ namespace WpfSkeleton.ViewModel
 {
     public class UserViewModel : ViewModelBase
     {
-        private UserModel _userModel;
-        public ObservableCollection<UserModel> _UserList;
+        private UserModel userModel;
+        public ObservableCollection<UserModel> userList;
 
 
         public UserViewModel(UserModel userModel)
         {
-            _userModel = userModel;
+            userModel = userModel;
         }
 
         public string Username
         {
 
-            get { return _userModel.Username; }
+            get { return userModel.Username; }
             set
             {
-                _userModel.Username = value;
+                userModel.Username = value;
 
                 // set => SetProperty(ref _firstName, value);
             }
@@ -29,8 +29,8 @@ namespace WpfSkeleton.ViewModel
 
         public ObservableCollection<UserModel> Users
         {
-            get { return _UserList; }
-            set { _UserList = value; }
+            get { return userList; }
+            set { userList = value; }
         }
 
 

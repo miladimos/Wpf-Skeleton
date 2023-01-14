@@ -9,4 +9,5 @@ namespace WpfSkeleton.Model.User
 
         public UserModel() { }
     }
+    
 }
