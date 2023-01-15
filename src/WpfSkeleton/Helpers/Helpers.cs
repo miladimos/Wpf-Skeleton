@@ -1,5 +1,8 @@
-﻿using Serilog;
+﻿using Microsoft.Win32;
+using Serilog;
 using System.Globalization;
+using System.Reflection;
+using System.Windows;
 
 namespace WpfSkeleton
 {
@@ -44,5 +47,28 @@ namespace WpfSkeleton
                     break;
             }
         }
+
+        public static void createWindowsContextMenuItem()
+        {
+            RegistryKey registryKey = Registry.CurrentUser.CreateSubKey(@"SOFTWARE\Classes\*\shell\WpfSkeleton\command"); // for files
+                                                                                                                          // RegistryKey registryKey2 = Registry.CurrentUser.CreateSubKey(@"SOFTWARE\Classes\Directory\shell\WpfSkeleton\command"); // for directories
+
+            registryKey.SetValue("", $"\"{Assembly.GetExecutingAssembly().Location}\" " + "\"%1\"");
+            registryKey.Close();
+        }
+
+        public static void getWindowsContextMenuItemArgs(StartupEventArgs e)
+        {
+            if (e.Args.Length > 0)
+            {
+                //
+            }
+            else
+            {
+                return;
+            }
+        }
+
+
     }
 }

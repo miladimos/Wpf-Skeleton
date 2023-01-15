@@ -12,6 +12,6 @@
                 <ComboBoxItem>Persian</ComboBoxItem>
             </ComboBox>
 
-        <Button Width="100" Height="40" Margin="30" Content="{}"></Button>
+        <Button Width="100" Height="40" Margin="30" Content="{x:Static  p:Resources.Title}"></Button>
         </StackPanel>
 </Window>
