@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "UT7GET6sUfGxic7XV3V9fjHJt3t3Eff/EcDWbQhg4srdQBnKpHxL8bcVRDEOPLVoF0Qj1OxkXukRvcDZGIIevA==",
+  "dgSpecHash": "M48AAtxtmM77qpILUXFBFlbwhfAXfpFcoyU4NM5LCMaxjaCBGyObsnSbjNepF3QFqzRkThWWyJm/vKyrLN1GGQ==",
   "success": true,
   "projectFilePath": "E:\\Programming\\opensource\\WpfSkeleton\\src\\WpfSkeleton\\WpfSkeleton.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Milad-PC\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512"
+    "C:\\Users\\Milad-PC\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512",
+    "C:\\Users\\Milad-PC\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

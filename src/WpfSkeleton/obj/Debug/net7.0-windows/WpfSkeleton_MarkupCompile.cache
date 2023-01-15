@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 E:\Programming\opensource\WpfSkeleton\src\WpfSkeleton\App.xaml
-2-983593004
+4958751585
 
-8-608517475
-198-1175457984
-MainWindow.xaml;View\UserWindow.xaml;
+10684702292
+200849301954
+MainWindow.xaml;Resources\Fonts.xaml;Resources\Themes.xaml;View\UserWindow.xaml;
 
 False
 

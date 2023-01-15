@@ -19,5 +19,10 @@ namespace WpfSkeleton
         {
             InitializeComponent();
         }
+
+        private void cmbLanguage_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }

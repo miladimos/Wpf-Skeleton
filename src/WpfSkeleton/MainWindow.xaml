@@ -6,7 +6,12 @@
         xmlns:local="clr-namespace:WpfSkeleton"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Path Data="" />
-    </Grid>
+        <StackPanel>
+            <ComboBox x:Name="cmbLanguage" SelectionChanged="cmbLanguage_SelectionChanged">
+                <ComboBoxItem IsSelected="True">English</ComboBoxItem>
+                <ComboBoxItem>Persian</ComboBoxItem>
+            </ComboBox>
+
+        <Button Width="100" Height="40" Margin="30" Content="{}"></Button>
+        </StackPanel>
 </Window>

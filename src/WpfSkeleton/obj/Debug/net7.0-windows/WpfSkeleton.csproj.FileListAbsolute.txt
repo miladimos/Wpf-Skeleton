@@ -21,3 +21,16 @@ E:\Programming\opensource\WpfSkeleton\src\WpfSkeleton\obj\Debug\net7.0-windows\r
 E:\Programming\opensource\WpfSkeleton\src\WpfSkeleton\obj\Debug\net7.0-windows\WpfSkeleton.pdb
 E:\Programming\opensource\WpfSkeleton\src\WpfSkeleton\obj\Debug\net7.0-windows\WpfSkeleton.genruntimeconfig.cache
 E:\Programming\opensource\WpfSkeleton\src\WpfSkeleton\obj\Debug\net7.0-windows\ref\WpfSkeleton.dll
+E:\Programming\opensource\WpfSkeleton\src\WpfSkeleton\bin\Debug\net7.0-windows\Serilog.dll
+E:\Programming\opensource\WpfSkeleton\src\WpfSkeleton\bin\Debug\net7.0-windows\Serilog.Sinks.File.dll
+E:\Programming\opensource\WpfSkeleton\src\WpfSkeleton\obj\Debug\net7.0-windows\Resources\Fonts.baml
+E:\Programming\opensource\WpfSkeleton\src\WpfSkeleton\obj\Debug\net7.0-windows\Resources\Themes.baml
+E:\Programming\opensource\WpfSkeleton\src\WpfSkeleton\obj\Debug\net7.0-windows\WpfSkeleton.csproj.CopyComplete
+E:\Programming\opensource\WpfSkeleton\src\WpfSkeleton\bin\Debug\net7.0-windows\fa\WpfSkeleton.resources.dll
+E:\Programming\opensource\WpfSkeleton\src\WpfSkeleton\obj\Debug\net7.0-windows\WpfSkeleton.Resources.Languages.Language.resources
+E:\Programming\opensource\WpfSkeleton\src\WpfSkeleton\obj\Debug\net7.0-windows\WpfSkeleton.Resources.Languages.Language.fa.resources
+E:\Programming\opensource\WpfSkeleton\src\WpfSkeleton\obj\Debug\net7.0-windows\WpfSkeleton.csproj.GenerateResource.cache
+E:\Programming\opensource\WpfSkeleton\src\WpfSkeleton\obj\Debug\net7.0-windows\fa\WpfSkeleton.resources.dll
+E:\Programming\opensource\WpfSkeleton\src\WpfSkeleton\bin\Debug\net7.0-windows\en\WpfSkeleton.resources.dll
+E:\Programming\opensource\WpfSkeleton\src\WpfSkeleton\obj\Debug\net7.0-windows\WpfSkeleton.Resources.Languages.Language.en.resources
+E:\Programming\opensource\WpfSkeleton\src\WpfSkeleton\obj\Debug\net7.0-windows\en\WpfSkeleton.resources.dll

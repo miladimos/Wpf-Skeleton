@@ -1,4 +1,4 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-    
+    <FontFamily x:Key="Vazir">Vazir, pack://application:,,,/Assets/Fonts/rtl/#Vazir</FontFamily>
 </ResourceDictionary>
